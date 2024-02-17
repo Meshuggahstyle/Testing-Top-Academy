@@ -8,7 +8,7 @@
 ## [План тестирования](https://docs.google.com/spreadsheets/d/1v2vl1i-DC9DshqvjB4lfXU2GLEXSJw74Tikn82xrF4A/edit?usp=sharing)
 ## [Чек-листы](https://docs.google.com/document/d/18iefnpKfdJsZEZFCb32qFvDWjlOAluCDY7asPmFfK-s/edit?usp=sharing)
 ## [Баг репорты](https://docs.google.com/spreadsheets/d/1oTioIku_seB4Hm9EgvOG7YTYJfXOOyMmuQyX4sgcfyw/edit?usp=sharing)
-## В соответствии с выполненными требованиями:
+## В соответствии с выполненными требованиями проведено:
 ### Usability testing и Security testing сайта:https://ekat.top-academy.ru/ 
 ### Оформление документации: требования, тест-план, чек-лист, баг-отчет. 
 ## Результат:
